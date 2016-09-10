@@ -7,7 +7,7 @@
     npm run dev
 访问：http://localhost:8080/
 ### 在线预览
-[https://eternityspring.github.io](https://eternityspring.github.io)
+[https://johnnyjiang.github.io](https://johnnyjiang.github.io)
 ### 打印预览
 打开上述链接，在浏览器中按
     ctrl+p
